@@ -10,7 +10,7 @@ background:	#F0FFFF url(images/bg.jpg) repeat-x;
 }
 /* Header */
 #header {
- height:242PX;
+ 	height:242PX;
  	background:url(images/header.png) no-repeat left top;
 	clear: both;
   }
