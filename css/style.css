@@ -16,6 +16,10 @@ background:	#F0FFFF url(images/bg.jpg) repeat-x;
  color: #A52A2A;  
   }
 
+#topbar {
+height:78px;
+}
+
 /*Header Menu*/
 #topmenu {
 	display:block;
