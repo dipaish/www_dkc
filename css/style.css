@@ -1,5 +1,5 @@
 body{
-	background: #FFFFFF  url(images/bg.jpg) repeat-x;
+	background: #FFFFFF  url("https://raw.githubusercontent.com/dipaish/www_dkc/master/images/bg.jpg") repeat-x;
 	}
 #wrap{
 	width:699px;
