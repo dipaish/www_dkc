@@ -1,5 +1,5 @@
 body {
-background:url(images/bg.jpg) repeat-x;
+background: #F0FFFF url("images/bg.jpg") repeat-x;
 }
 #wrap {
  width:700px;
@@ -11,7 +11,7 @@ background:url(images/bg.jpg) repeat-x;
 /* Header */
 #header {
  	height:242PX;
- 	background:url(images/header.png) no-repeat left top;
+ 	background:url("images/header.png") no-repeat left top;
 	clear: both;
   }
 
