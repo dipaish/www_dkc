@@ -15,7 +15,6 @@ body{
 	height:242px;
 	background:url("https://github.com/dipaish/www_dkc/blob/master/images/header.png?raw=true") no-repeat left top;
 	clear: both;
-	position: fixed;
 }
 /*Header Menu*/
 #topmenu {
@@ -24,6 +23,7 @@ body{
 	padding:0 0px 0px 278px;
 	float: right;
 	width: 415px;
+	background-color:black;
 	position: fixed;
 }
 #topmenu li {
